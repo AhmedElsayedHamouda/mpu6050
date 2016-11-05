@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_ahmed_lifebook_a530__43354: 'http://ahmed-LIFEBOOK-A530:43354/'}
+rosversion: '1.12.2
+
+  '
+run_id: 213976b0-7cf6-11e6-acc6-18f46a059ed7

@@ -1,0 +1,8 @@
+prefix=/home/ahmed/catkin_ws/install
+
+Name: beginners_tutorials
+Description: Description of beginners_tutorials
+Version: 0.0.0
+Cflags: -I/home/ahmed/catkin_ws/install/include
+Libs: -L/home/ahmed/catkin_ws/install/lib -lbeginners_tutorials
+Requires: message_runtime roscpp rospy std_msgs

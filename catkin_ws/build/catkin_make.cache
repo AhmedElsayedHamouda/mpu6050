@@ -1,0 +1,2 @@
+MPU6050:beginners_tutorials:learning_tf
+-DCATKIN_DEVEL_PREFIX=/home/ahmed/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ahmed/catkin_ws/install -G Unix Makefiles
